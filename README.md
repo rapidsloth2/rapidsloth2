@@ -1,1 +1,1 @@
-Hello, world!
+Hi! I'm rapidsloth, a first-year CS student.
